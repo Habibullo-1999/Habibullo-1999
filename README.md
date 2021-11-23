@@ -9,7 +9,7 @@ I am a Backend developer
 [<img align="left" alt="@HabibulloGulomidinov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/HabibulloGulomidinov)
 [<img align="left" alt="habibullo-gulomidinov | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />](https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7)
 
-<br />
+
 ### 🛠 Language and Tools:
 <br />
 <img align="left" alt="golang" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
