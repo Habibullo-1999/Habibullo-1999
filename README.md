@@ -3,14 +3,19 @@ I am a Backend developer
 
 ### Experiences:
 - 👨🏻‍💻[Alif Bank](http://alif.tj)
+- 👨🏻‍💻[School №4](http://mtmu-4.tj)
 
 ### 📱 Contact with me:
 
-[<img align="left" alt="@HabibulloGulomidinov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/HabibulloGulomidinov)
-[<img align="left" alt="habibullo-gulomidinov | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />](https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7)
-
+[<img align="left" alt="@HabibulloGulomidinov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/HabibulloGulomidinov) &nbsp;&nbsp; Telegram
+<br />
+[<img align="left" alt="habibullo-gulomidinov | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />](https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7) &nbsp;&nbsp; Linkedin
+<br />
+[<img align="left" alt="habibullo-gulomidinov | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg" />](https://wa.me/992926421505)&nbsp;&nbsp; WhatsApp
+<br /> 
 
 ### 🛠 Language and Tools:
+
 <br />
 <img align="left" alt="golang" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 <img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
