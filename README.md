@@ -14,10 +14,8 @@ I am a Backend developer
 <br />
 <img align="left" alt="golang" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 <img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-
 <img align="left" alt="mysql" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="postgresql" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-
 <img align="left" alt="docker" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
 <img align="left" alt="heroku" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
