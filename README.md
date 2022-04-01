@@ -3,7 +3,6 @@ I am a Backend developer
 
 ### Experiences:
 - 👨🏻‍💻[Alif Bank](http://alif.tj)
-- 👨🏻‍💻[School №4](http://mtmu-4.tj)
 
 ### 📱 Contact with me:
 
