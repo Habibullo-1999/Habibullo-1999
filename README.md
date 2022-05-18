@@ -29,4 +29,4 @@ I am a Backend developer
 
 ### Statistics
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Habibullo-1999&count_private=true&title_color=007AFF&bg_color=25262B&icon_color=007AFF&show_icons=true&text_color=FFFFFF&include_all_commits=true) -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=Habibullo-1999&count_private=true&title_color=007AFF&bg_color=25262B&icon_color=007AFF&show_icons=true&text_color=FFFFFF&include_all_commits=true) -->
