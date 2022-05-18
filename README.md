@@ -2,7 +2,7 @@
 I am a Backend developer
 
 ### Experiences:
-- 👨🏻‍💻[Alif Bank](http://alif.tj)
+-[<img align="left" width="22px" src="https://alif.tj/static/media/logo.1d1f1764.svg" /> Alif Bank](http://alif.tj)
 
 ### 📱 Contact with me:
 
