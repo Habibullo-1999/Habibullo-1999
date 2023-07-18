@@ -39,5 +39,6 @@ Alif Bank [<img align="left" width="30px" src="https://avatars.githubusercontent
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/992926421505)
 
+## 🎵 Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wpmgpmbbuuxm3hgeub4aalkioq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
