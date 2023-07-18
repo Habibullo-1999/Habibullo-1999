@@ -1,32 +1,41 @@
-### Hi there 👋
+## Hi there 👋
 I am a Backend developer
 
-### Experiences:
--[<img align="left" width="70px" src="https://alif.tj/static/media/logo.1d1f1764.svg" /> Alif Bank](http://alif.tj)
+## Experiences:
+Alif Bank [<img align="left" width="30px" src="https://avatars.githubusercontent.com/u/17398990?s=200&v=4" />](http://alif.tj)
 
-### 📱 Contact with me:
+## 🛠 Language and Tools:
 
-[<img align="left" alt="@HabibulloGulomidinov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/HabibulloGulomidinov) &nbsp;&nbsp; Telegram
-<br />
-[<img align="left" alt="habibullo-gulomidinov | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />](https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7) &nbsp;&nbsp; Linkedin
-<br />
-[<img align="left" alt="habibullo-gulomidinov | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg" />](https://wa.me/992926421505)&nbsp;&nbsp; WhatsApp
-<br /> 
+####  Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🛠 Language and Tools:
+####  Backend
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br />
-<img align="left" alt="golang" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
-<img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="mysql" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="postgresql" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-<img align="left" alt="docker" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
-<img align="left" alt="heroku" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
-<img align="left" alt="bitbucket" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"/>
+#### 💻 IDEs/Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 
-<br />
-
-### Statistics
+## Statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Habibullo-1999&count_private=true&title_color=007AFF&bg_color=25262B&icon_color=007AFF&show_icons=true&text_color=FFFFFF&include_all_commits=true)
+
+[![wakatime](https://wakatime.com/badge/user/e488eb37-d982-4edc-a4a2-7f2e30b4d868.svg)](https://wakatime.com/@e488eb37-d982-4edc-a4a2-7f2e30b4d868)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/HabibulloGulomidinov?theme=nord&font=Andika)
+
+## 📱 Contact with me:
+
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/HabibulloGulomidinov)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/992926421505)
+
