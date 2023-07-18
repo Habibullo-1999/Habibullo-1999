@@ -1,5 +1,12 @@
-## Hi there 👋
-I am a Backend developer
+## Hi there 👋 My name is Habibullo. I am a Backend Developer 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center" >
+  <a href="https://t.me/HabibulloGulomidinov"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/992926421505"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
 
 ## Experiences:
 Alif Bank [<img align="left" width="30px" src="https://avatars.githubusercontent.com/u/17398990?s=200&v=4" />](http://alif.tj)
@@ -33,11 +40,7 @@ Alif Bank [<img align="left" width="30px" src="https://avatars.githubusercontent
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HabibulloGulomidinov?theme=nord&font=Andika)
 
-## 📱 Contact with me:
 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/HabibulloGulomidinov)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/habibullo-gulomidinov-ba850a1b7)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/992926421505)
 
 ## 🎵 Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wpmgpmbbuuxm3hgeub4aalkioq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wpmgpmbbuuxm3hgeub4aalkioq&redirect=true)
