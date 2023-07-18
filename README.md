@@ -27,7 +27,7 @@ Alif Bank [<img align="left" width="30px" src="https://avatars.githubusercontent
 
 ## Statistics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Habibullo-1999&count_private=true&title_color=007AFF&bg_color=25262B&icon_color=007AFF&show_icons=true&text_color=FFFFFF&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Habibullo-1999&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true")
 
 [![wakatime](https://wakatime.com/badge/user/e488eb37-d982-4edc-a4a2-7f2e30b4d868.svg)](https://wakatime.com/@e488eb37-d982-4edc-a4a2-7f2e30b4d868)
 
